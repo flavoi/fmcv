@@ -1,4 +1,7 @@
+# Output documents
 *.pdf
+
+# LaTeX logs
 *.acn
 *.acr
 *.alg

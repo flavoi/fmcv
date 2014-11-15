@@ -1,4 +1,4 @@
 myCV
 ----
 
-A small document regarding my professional skills. Will do my best to keep it up to date :)
+Written in LaTeX, this document is one of the assets of my personal diary: http://flavoi.it
